@@ -5,6 +5,11 @@
 # global properties
 properties() { '
 kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.for=KernelForDriver
+kernel.compiler=AtomSemx
+kernel.made=Kunmun
+kernel.version=4.9.337
+build.date=2069
 do.devicecheck=1
 do.modules=0
 do.systemless=1
