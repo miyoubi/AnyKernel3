@@ -4,13 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Miyo:[Ryo]
+kernel.string=miyoubi:[r]
 device.name=placeholder
 kernel.for=placeholder
 kernelsu.version=placeholder
 kernel.compiler=
 kernel.made=exer
-kernel.version=4.9.337
+kernel.version=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
