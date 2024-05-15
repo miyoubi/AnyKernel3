@@ -7,7 +7,7 @@ properties() { '
 kernel.string=miyoubi:[r]
 device.name=placeholder
 kernel.for=placeholder
-kernelsu.version=n/a
+kernelsu.version=n
 kernel.compiler=
 kernel.made=exer
 kernel.version=
