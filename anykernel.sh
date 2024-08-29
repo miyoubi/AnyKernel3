@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=miyoubi:[r]
+kernel.string=miyoubi:db-r2
 device.name=placeholder
 kernel.for=placeholder
 kernelsu.version=n
