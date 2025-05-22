@@ -5,8 +5,8 @@
 # global properties
 properties() { '
 kernel.string=miyoubi
-device.name=placeholder
-kernel.for=placeholder
+device.name=
+device.region=
 kernelsu.version=n
 kernel.compiler=
 kernel.made=exer
